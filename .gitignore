@@ -18,3 +18,4 @@ bin-release/
 # information for Eclipse / Flash Builder.
 /.vs/CAP.Demo/FileContentIndex
 /.vs/CAP.Demo/v17
+/.vs
